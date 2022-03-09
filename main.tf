@@ -16,5 +16,3 @@ module "vpc" {
     Environment = "dev"
   }
 }
-
-testing purpose 
